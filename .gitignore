@@ -1,0 +1,5 @@
+# Unreviewed and full-size originals: never publish
+raw/
+selected/
+CHECKLIST.md
+desktop.ini
